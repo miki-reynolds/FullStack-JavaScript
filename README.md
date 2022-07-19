@@ -1,8 +1,6 @@
 # [Full Stack Open 2022](https://fullstackopen.com/en/)
 
 
-All the projects I have done from the Full Stack Open course from the Department of Computer Science at the University of Helsinki.
-
 ### Quick Overview:
 The course is designed for students to learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub Actions and Docker in one go! 
 This course will introduce students to modern JavaScript-based web development. 
